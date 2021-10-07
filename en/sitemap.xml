@@ -2,100 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://emily-chengyh.github.io/en/blog/20210226/</loc>
+    <loc>https://emily.how/en/blog/20210226/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://emily-chengyh.github.io/blog/20210226/"
+                href="https://emily.how/blog/20210226/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://emily-chengyh.github.io/en/blog/20210226/"
+                href="https://emily.how/en/blog/20210226/"
                 />
   </url><url>
-    <loc>https://emily-chengyh.github.io/en/blog/</loc>
+    <loc>https://emily.how/en/blog/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://emily-chengyh.github.io/blog/"
+                href="https://emily.how/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://emily-chengyh.github.io/en/blog/"
+                href="https://emily.how/en/blog/"
                 />
   </url><url>
-    <loc>https://emily-chengyh.github.io/en/categories/</loc>
+    <loc>https://emily.how/en/categories/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://emily-chengyh.github.io/categories/"
+                href="https://emily.how/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://emily-chengyh.github.io/en/categories/"
+                href="https://emily.how/en/categories/"
                 />
   </url><url>
-    <loc>https://emily-chengyh.github.io/en/categories/daily-life/</loc>
+    <loc>https://emily.how/en/categories/daily-life/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://emily-chengyh.github.io/en/</loc>
+    <loc>https://emily.how/en/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://emily-chengyh.github.io/"
+                href="https://emily.how/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://emily-chengyh.github.io/en/"
+                href="https://emily.how/en/"
                 />
   </url><url>
-    <loc>https://emily-chengyh.github.io/en/tags/lantern-festival/</loc>
+    <loc>https://emily.how/en/tags/lantern-festival/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://emily-chengyh.github.io/en/tags/</loc>
+    <loc>https://emily.how/en/tags/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://emily-chengyh.github.io/tags/"
+                href="https://emily.how/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://emily-chengyh.github.io/en/tags/"
+                href="https://emily.how/en/tags/"
                 />
   </url><url>
-    <loc>https://emily-chengyh.github.io/en/about/</loc>
+    <loc>https://emily.how/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://emily-chengyh.github.io/about/"
+                href="https://emily.how/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://emily-chengyh.github.io/en/about/"
+                href="https://emily.how/en/about/"
                 />
   </url><url>
-    <loc>https://emily-chengyh.github.io/en/contact/</loc>
+    <loc>https://emily.how/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://emily-chengyh.github.io/contact/"
+                href="https://emily.how/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://emily-chengyh.github.io/en/contact/"
+                href="https://emily.how/en/contact/"
                 />
   </url>
 </urlset>

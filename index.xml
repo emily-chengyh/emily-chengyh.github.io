@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emily&#39;s Blog&#39;</title>
-    <link>https://emily-chengyh.github.io/</link>
-    <description>Recent content on Emily&#39;s Blog&#39;</description>
+    <title>Emily&#39;s Blog</title>
+    <link>https://emily.how/</link>
+    <description>Recent content on Emily&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://emily-chengyh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://emily.how/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021元宵節快樂</title>
-      <link>https://emily-chengyh.github.io/blog/20210226/</link>
+      <link>https://emily.how/blog/20210226/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://emily-chengyh.github.io/blog/20210226/</guid>
+      <guid>https://emily.how/blog/20210226/</guid>
       <description>元宵節快樂～
 今年做了3個小燈籠
 很喜歡專注在手作時的自己
@@ -21,10 +21,10 @@
     
     <item>
       <title>關於Emily</title>
-      <link>https://emily-chengyh.github.io/about/</link>
+      <link>https://emily.how/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://emily-chengyh.github.io/about/</guid>
+      <guid>https://emily.how/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
@@ -32,10 +32,10 @@ Hugo makes use of a variety of open source projects including:
     
     <item>
       <title>聯絡</title>
-      <link>https://emily-chengyh.github.io/contact/</link>
+      <link>https://emily.how/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://emily-chengyh.github.io/contact/</guid>
+      <guid>https://emily.how/contact/</guid>
       <description></description>
     </item>
     
