@@ -8,7 +8,7 @@
     <language>zh-TW</language>
     <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://emily.how/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2021元宵節快樂</title>
+      <title>2021 元宵節快樂</title>
       <link>https://emily.how/blog/20210226/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
       
@@ -25,9 +25,21 @@
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://emily.how/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+      <description>專長摘要 專案管理，有興趣的領域為資訊科技、製造
+  範疇規劃、發展時程、成本控制
+  善於人際溝通及解決問題
+  電腦技能：
+  Microsoft Office Suite(Word, PowerPoint, Excel, Visio)
+  HTML, CSS, PHP, MySQL
+  Adobe PhotoShop, Illustrator, Premiere Pro
+    語言：
+中文、英文、西班牙文
+   證照  PMP國際專案管理師： 查看證書   經歷 主任管理師，晨星半導體，2012-2018   需求管理： 為專案導入管理與執行的流程與系統，蒐集與分析其數據，並監督與回報運作裝況給高層主管。
+  客戶專案組合管理： 為客戶專案導入管理與執行的流程與系統，蒐集與分析其數據，以協助高層主管於年初和年中來規劃部門人力資源、審查執行成效。
+  依據公司策略與框架來辨識是否需要調整運作流程與指導原則內容。
+  兼任研究助理，逢甲大學，2009-2012   協助研究計畫的進行，並處理相關行政工作，包括計畫之系統開發、平台介面設計及維護等
+  疑難排解處理
+  執行之專案：</description>
     </item>
     
     <item>

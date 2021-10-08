@@ -1,5 +1,5 @@
 [{
-    "title": "2021元宵節快樂",
+    "title": "2021 元宵節快樂",
     "date": "",
     "description": "今年做的小燈籠",
     "body": "元宵節快樂～\n今年做了3個小燈籠\n很喜歡專注在手作時的自己\n感覺療癒 😊\n",
@@ -7,8 +7,8 @@
   },{
     "title": "關於Emily",
     "date": "",
-    "description": "Hugo, the world’s fastest framework for building websites",
-    "body": "Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.\nHugo makes use of a variety of open source projects including:\n https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.\nHugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.\nWebsites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.\nLearn more and contribute on GitHub.\n",
+    "description": "經歷&技能",
+    "body": "專長摘要 專案管理，有興趣的領域為資訊科技、製造\n  範疇規劃、發展時程、成本控制\n  善於人際溝通及解決問題\n  電腦技能：\n  Microsoft Office Suite(Word, PowerPoint, Excel, Visio)\n  HTML, CSS, PHP, MySQL\n  Adobe PhotoShop, Illustrator, Premiere Pro\n    語言：\n中文、英文、西班牙文\n   證照  PMP國際專案管理師： 查看證書   經歷 主任管理師，晨星半導體，2012-2018   需求管理： 為專案導入管理與執行的流程與系統，蒐集與分析其數據，並監督與回報運作裝況給高層主管。\n  客戶專案組合管理： 為客戶專案導入管理與執行的流程與系統，蒐集與分析其數據，以協助高層主管於年初和年中來規劃部門人力資源、審查執行成效。\n  依據公司策略與框架來辨識是否需要調整運作流程與指導原則內容。\n  兼任研究助理，逢甲大學，2009-2012   協助研究計畫的進行，並處理相關行政工作，包括計畫之系統開發、平台介面設計及維護等\n  疑難排解處理\n  執行之專案：\n  互動式線上中醫診斷平台之建置基準研究\n  中醫在國際醫療服務基準建置：建構診斷e化之多媒體資料擷取、交換與分析平台\n     ",
     "ref": "/about/"
   },{
     "title": "聯絡",
