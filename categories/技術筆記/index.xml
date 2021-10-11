@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emily&#39;s Blog</title>
-    <link>https://emily.how/</link>
-    <description>Recent content on Emily&#39;s Blog</description>
+    <title>技術筆記 on Emily&#39;s Blog</title>
+    <link>https://emily.how/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/</link>
+    <description>Recent content in 技術筆記 on Emily&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 11 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://emily.how/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://emily.how/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何架設個人網站(1)</title>
       <link>https://emily.how/blog/20211011/</link>
@@ -42,49 +42,6 @@
 跟我的合圖主題是 Have Some Fun 👍
 回到自己的內在權威與策略，會在適合的時機遇到適合自己的人事物~
  </description>
-    </item>
-    
-    <item>
-      <title>2021 元宵節快樂</title>
-      <link>https://emily.how/blog/20210226/</link>
-      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://emily.how/blog/20210226/</guid>
-      <description>元宵節快樂～
-今年做了3個小燈籠
-很喜歡專注在手作時的自己
-感覺療癒 😊</description>
-    </item>
-    
-    <item>
-      <title>關於Emily</title>
-      <link>https://emily.how/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://emily.how/about/</guid>
-      <description>專長摘要 專案管理，有興趣的領域為資訊科技、製造
-  範疇規劃、發展時程、成本控制
-  善於人際溝通及解決問題
-  電腦技能：
-  Microsoft Office Suite(Word, PowerPoint, Excel, Visio)
-  HTML, CSS, PHP, MySQL
-  Adobe PhotoShop, Illustrator, Premiere Pro
-    語言：
-中文、英文、西班牙文
-   證照  PMP國際專案管理師： 查看證書   經歷 自由工作者，2020~   Googl表單設計：諮詢預約單
-  Excel tool 製作：象棋卜卦命盤工具
-  影片剪輯：象棋卜卦線上占卜經營大補帖課程
-  BG5職涯諮詢實習： 預約諮詢
-  主任管理師，晨星半導體，2012-2018   需求管理： 為專案導入管理與執行的流程與系統，蒐集與分析其數據，並監督與回報運作裝況給高層主管。</description>
-    </item>
-    
-    <item>
-      <title>聯絡</title>
-      <link>https://emily.how/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://emily.how/contact/</guid>
-      <description></description>
     </item>
     
   </channel>
