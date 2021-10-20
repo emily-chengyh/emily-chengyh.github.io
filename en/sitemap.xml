@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://emily.how/en/tags/bg5/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://emily.how/tags/bg5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://emily.how/en/tags/bg5/"
+                />
+  </url><url>
     <loc>https://emily.how/en/blog/</loc>
-    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -16,7 +29,7 @@
                 />
   </url><url>
     <loc>https://emily.how/en/categories/</loc>
-    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -29,7 +42,7 @@
                 />
   </url><url>
     <loc>https://emily.how/en/</loc>
-    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -39,6 +52,35 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://emily.how/en/"
+                />
+  </url><url>
+    <loc>https://emily.how/en/categories/human-design-bg5/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://emily.how/en/tags/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://emily.how/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://emily.how/en/tags/"
+                />
+  </url><url>
+    <loc>https://emily.how/en/blog/hdbg5-01/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://emily.how/blog/hdbg5-01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://emily.how/en/blog/hdbg5-01/"
                 />
   </url><url>
     <loc>https://emily.how/en/blog/20211011/</loc>
@@ -52,19 +94,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://emily.how/en/blog/20211011/"
-                />
-  </url><url>
-    <loc>https://emily.how/en/tags/</loc>
-    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://emily.how/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://emily.how/en/tags/"
                 />
   </url><url>
     <loc>https://emily.how/en/categories/tech-note/</loc>
