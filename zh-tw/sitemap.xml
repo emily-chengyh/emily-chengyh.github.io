@@ -54,6 +54,9 @@
                 href="https://emily.how/tags/"
                 />
   </url><url>
+    <loc>https://emily.how/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/</loc>
+    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://emily.how/blog/20211105/</loc>
     <lastmod>2021-11-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -66,9 +69,6 @@
                 hreflang="zh-tw"
                 href="https://emily.how/blog/20211105/"
                 />
-  </url><url>
-    <loc>https://emily.how/categories/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/</loc>
-    <lastmod>2021-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://emily.how/tags/%E7%B6%B2%E7%AB%99%E8%A3%BD%E4%BD%9C/</loc>
     <lastmod>2021-11-05T00:00:00+00:00</lastmod>
@@ -128,10 +128,10 @@
                 href="https://emily.how/blog/20210226/"
                 />
   </url><url>
-    <loc>https://emily.how/tags/%E6%88%91%E7%9A%84%E6%89%8B%E4%BD%9C/</loc>
+    <loc>https://emily.how/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://emily.how/categories/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://emily.how/tags/%E6%88%91%E7%9A%84%E6%89%8B%E4%BD%9C/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://emily.how/about/</loc>
